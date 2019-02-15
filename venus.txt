@@ -1,1 +1,2 @@
-text
+It is a planet!
+This line is from my laptop.
